@@ -1,6 +1,6 @@
 {
-    "server": "65.109.153.186",
-    "username": "kovendhan5",
+    "server": "127.0.0.1",
+    "username": "root",
     "password": "Kovendhan@5",
     "database": "ko"
 }
